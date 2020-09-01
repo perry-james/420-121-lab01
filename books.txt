@@ -1,0 +1,11 @@
+The Martian Chronicles	Ray Bradbury
+The Hitchhiker’s Guide to the Galaxy	Douglas Adams
+Dune	Frank Herbert
+The Forever War	Joe Haldeman
+Consider Phlebas	Iain M. Banks
+Foundation	Isaac Asimov
+
+George Orwell	1984
+Aldous Huxley	Brave New World
+Yevgeny Zamyatin	We
+Anthem	Ayn Rand
