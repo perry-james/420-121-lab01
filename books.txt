@@ -5,7 +5,7 @@ The Forever War	Joe Haldeman
 Consider Phlebas	Iain M. Banks
 Foundation	Isaac Asimov
 
-George Orwell	1984
-Aldous Huxley	Brave New World
-Yevgeny Zamyatin	We
+1984	George Orwell
+Brave New World	Aldous Huxley
+We	Yevgeny Zamyatin
 Anthem	Ayn Rand
